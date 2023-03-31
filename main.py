@@ -1,4 +1,5 @@
 import pandas as pd
+import openpyxl
 
 df = pd.read_excel("Zach Chart Only.xlsx")
 print(df)
