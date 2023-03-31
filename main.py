@@ -1,6 +1,7 @@
 import pandas as pd
 import openpyxl
 
+# Change line below to match your excel file's name
 df = pd.read_excel("Zach Chart Only.xlsx")
 print(df)
 
